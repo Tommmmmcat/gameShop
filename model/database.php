@@ -1,6 +1,6 @@
 <?php
 
-$dbhost = "mydbinstancetest.cm01n5xj8z88.eu-west-1.rds.amazonaws.com";
+$dbhost = "mycadb.cm01n5xj8z88.eu-west-1.rds.amazonaws.com";
 $dbport = "3306";
 $dbname = "gameshop";
 $charset = 'utf8' ;
